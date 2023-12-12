@@ -17,10 +17,6 @@ with open('home&living.json', 'r') as file:
     homeliving = json.load(file)
 
 
-
-
-
-
 for item in mainfile:
     if(item['departmentType']=='men'):
         item['product_images']=mendata[item['product_title']]
