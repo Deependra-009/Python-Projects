@@ -4,7 +4,7 @@ import json
 
 # Provide your credentials (client ID, client secret, etc.) here
 credentials = Credentials(
-    "",
+    "TOKEN",
     refresh_token="",
     token_uri="",
     client_id="",
