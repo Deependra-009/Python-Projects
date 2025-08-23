@@ -5,7 +5,7 @@ import os
 # Set your OpenAI API key from the environment variable
 
 client = OpenAI(
-    api_key="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"
+    api_key=""
 )
 
 
