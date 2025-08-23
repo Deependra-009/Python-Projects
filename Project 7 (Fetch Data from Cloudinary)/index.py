@@ -4,9 +4,9 @@ import cloudinary.api
 import json
 
 cloudinary.config(
-  cloud_name = "dwirc57cl",
-  api_key = "486897895613536",
-  api_secret = "-yR19mx5ZuAZJvCylDBBjQlWVHo"
+  cloud_name = "",
+  api_key = "",
+  api_secret = "-"
 )
 
 dict={}
